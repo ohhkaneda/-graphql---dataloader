@@ -1,5 +1,11 @@
 # dataloader
 
+## 2.1.1
+
+### Patch Changes
+
+- fae38f1: Fix types for priming cache with promise
+
 ## 2.1.0
 
 ### Minor Changes
